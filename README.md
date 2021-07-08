@@ -41,8 +41,8 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-07-connext-contest/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
-- Starts TBD 2021-07-09 00:00 UTC
-- Ends TBD 2021-07-11 23:59 UTC
+- Starts 2021-07-09 00:00 UTC
+- Ends 2021-07-11 23:59 UTC
 
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
