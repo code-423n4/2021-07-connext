@@ -23,7 +23,19 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 - [x] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv))
 - [ ] Delete this checklist.
 
-## ⭐️ Sponsor: Contest prep
+## ⭐️ Sponsor: Contest setup
+- [ ] Name of each contract and:
+  - [ ] lines of code in each
+  - [ ] external contracts called in each
+  - [ ] libraries used in each
+- [ ] Describe any novel or unique curve logic or mathematical models implemented in the contracts
+- [ ] Does the token conform to the ERC-20 standard? In what specific ways does it differ?
+- [ ] Describe anything else that adds any special logic that makes your approach unique
+- [ ] Identify any areas of specific concern in reviewing the code
+- [ ] Add all of the code to this repo that you want reviewed
+- [ ] Create a PR to this repo with the above changes.
+
+## ⭐️ Sponsor: Contest pre-launch checklist
 - [ ] Make sure your code is thoroughly commented using the [NatSpec format](https://docs.soliditylang.org/en/v0.5.10/natspec-format.html#natspec-format).
 - [ ] Modify the bottom of this `README.md` file to describe how your code is supposed to work with links to any relevent documentation and any other criteria/details that the C4 Wardens should keep in mind when reviewing
 - [ ] Please have final versions of contracts and documentation added/updated in this repo **no less than 8 hours prior to contest start time.**
