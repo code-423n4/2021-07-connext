@@ -12,12 +12,6 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 
 ---
 
-# Contest scope information
-
-[ ⭐️ SPONSORS ADD INFO HERE ]
-
----
-
 # Contest prep
 
 ## 🐺 C4: Contest prep
@@ -39,8 +33,8 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 ---
 
 # Connext contest details
-- 22,500 USDC award pot
-- 2,500 USDC gas optimization award pot
+- $22,500 USDC award pot
+- $2,500 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-07-connext-contest/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
