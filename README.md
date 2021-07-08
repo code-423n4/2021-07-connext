@@ -32,7 +32,7 @@ The main contract is the `TransactionManager.sol` contract, which defines the lo
 
 ### TLDR
 
-If you are more of a video person, see [here](https://youtu.be/c0MmQqiMjLg) for a video walkthrough.
+If you are more of a video person, see [here](https://youtu.be/7J1CKJIW6-w) for a video walkthrough.
 
 NXTP is designed to facilitate crosschain transactions via simple atomic swaps where one party provides the liquidity of `assetA` on `chainA` and the other provides the liquidity of `assetB` on `chainB`.
 
