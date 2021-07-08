@@ -8,9 +8,6 @@
 - Starts 2021-07-09 00:00 UTC
 - Ends 2021-07-11 23:59 UTC
 
-This repo will be made public before the start of the contest. (C4 delete this line when made public)
-
-[ ⭐️ SPONSORS ADD INFO HERE ]
 
 ## Contract Overview
 
