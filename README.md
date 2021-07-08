@@ -23,10 +23,10 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 ## 🐺 C4: Contest prep
 - [x] Rename this repo to reflect contest date (if applicable)
 - [x] Rename contest H1 below
-- [ ] Add link to report form in contest details below
-- [ ] Update pot sizes
-- [ ] Fill in start and end times in contest bullets below.
-- [ ] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv))
+- [x] Add link to report form in contest details below
+- [x] Update pot sizes
+- [x] Fill in start and end times in contest bullets below.
+- [x] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv))
 - [ ] Delete this checklist.
 
 ## ⭐️ Sponsor: Contest prep
@@ -39,13 +39,13 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 ---
 
 # Connext contest details
-- TBD main award pot
-- TBD gas optimization award pot
+- 22,500 USDC award pot
+- 2,500 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
-- Submit findings [using the C4 form](https://code423n4.com/YYYY-MM-sponsorName-contest/submit)
+- Submit findings [using the C4 form](https://code423n4.com/2021-07-connext-contest/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
-- Starts TBD XXX XXX XX 00:00 UTC
-- Ends TBD XXX XXX XX 23:59 UTC
+- Starts TBD 2021-07-09 00:00 UTC
+- Ends TBD 2021-07-11 23:59 UTC
 
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
